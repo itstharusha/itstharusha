@@ -1,36 +1,51 @@
-# About Me
-I am a **Computer Science undergraduate** with a strong focus on building **scalable, data-driven systems**. My expertise spans **Machine Learning, Computer Vision, and end-to-end project development**, with an emphasis on writing **clean, maintainable code** and delivering impactful solutions.
+# Tharusha Rathnamalala
 
-My current focus is on **real-world ML applications**, advanced software engineering practices, and projects that bridge **research and production environments**.
+## About Me
+I am a **Computer Science undergraduate** focused on building **scalable, data-driven systems**.  
+Specialized in **Machine Learning, Computer Vision, and end-to-end project development**, I deliver **clean, maintainable code** and impactful solutions.  
+
+I am currently working on **real-world ML applications** and bridging the gap between research and production-grade software.
 
 ---
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/TharushaRathnamalala)  
-- [GitHub](https://github.com/itstharusha)  
-- [Email](mailto:itstharusha@gmail.com)  
-- [Instagram](https://instagram.com/tharusha__r)  
-- [Facebook](https://facebook.com/TharushaRathnamalala)  
+[LinkedIn](https://linkedin.com/in/TharushaRathnamalala) | [GitHub](https://github.com/itstharusha) | [Email](mailto:itstharusha@gmail.com)
 
 ---
 
-## Technical Skills
-**Programming Languages:** Python, R, C, Java  
-**Databases:** MySQL, Microsoft SQL Server, SQLite  
-**Machine Learning / AI:** TensorFlow, PyTorch, Scikit-learn, MLflow, NumPy, SciPy, Matplotlib, Plotly  
+## Skills
+
+**Programming:** Python, R, C, Java  
+**ML & AI:** TensorFlow, PyTorch, Scikit-learn, MLflow, NumPy, SciPy  
 **Computer Vision:** OpenCV  
 **Cloud & DevOps:** AWS, Azure, Firebase, Vercel, Docker, Kubernetes  
-**Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Postman, Power BI, OpenAPI, Arduino  
-**Design & Visualization:** Adobe Illustrator, Adobe Photoshop, Matplotlib, Plotly  
+**Databases:** MySQL, SQL Server, SQLite  
+**Visualization:** Matplotlib, Plotly, Power BI  
+**Design Tools:** Adobe Illustrator, Adobe Photoshop  
+
+### Skill Proficiency
+Python       ▇▇▇▇▇▇▇▇▇▇ 95%  
+Machine Learning ▇▇▇▇▇▇▇▇▇▇ 90%  
+Computer Vision ▇▇▇▇▇▇▇▇ 85%  
+Cloud & DevOps ▇▇▇▇▇▇▇ 80%  
+Data Visualization ▇▇▇▇▇▇▇ 80%  
+
+*(Progress bars are purely visual; adjust percentages to your skill level.)*
 
 ---
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstharusha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=itstharusha&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itstharusha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstharusha&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itstharusha&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## Visitor Count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=itstharusha&icon=0&color=0)](https://visitcount.itsvg.in)
+## Minimal Animations
+
+<!-- Example: Spinning loader effect using SVG -->
+<svg width="40" height="40" viewBox="0 0 50 50">
+  <circle cx="25" cy="25" r="20" stroke="#00bfff" stroke-width="5" fill="none"/>
+  <circle cx="25" cy="25" r="20" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="31.4 31.4" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
