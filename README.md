@@ -36,7 +36,6 @@ I am actively seeking **AI engineering or machine learning internships/full-time
 - Created dashboards in Power BI and Python for actionable insights.  
 - Automated data collection, cleaning, and visualization for business use cases.  
 
-*(Add project links or GitHub repos for each project.)*
 
 ---
 
