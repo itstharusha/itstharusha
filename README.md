@@ -1,10 +1,10 @@
 # Tharusha Rathnamalala
 
 ## About Me
-I am a **Computer Science undergraduate** specializing in **software engineering, machine learning, and computer vision**.  
+I am a **Data Science undergraduate** specializing in **Artificial intelligence, machine learning, and computer vision**.  
 I develop **scalable, production-ready systems**, implement **data-driven solutions**, and focus on **clean, maintainable code**.  
 
-I am actively seeking **software engineering or machine learning internships/full-time roles** where I can contribute to **high-impact projects** and grow as a technical leader.
+I am actively seeking **AI engineering or machine learning internships/full-time roles** where I can contribute to **high-impact projects** and grow as a technical leader.
 
 ---
 
