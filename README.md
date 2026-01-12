@@ -21,25 +21,74 @@ I am actively seeking **AI engineering or machine learning internships/full-time
 
 ---
 
-## Selected Projects
+## Selected Projects  
 
-**End-to-End ML Pipelines**  
-- Developed and deployed predictive models using Python, TensorFlow, and PyTorch.  
-- Implemented data preprocessing, feature engineering, model training, and evaluation.  
-- Integrated models with APIs for real-time usage.
+### CONTINUUM – Agentic AI for Supply Chain Risk  
+- Architected a **multi-agent AI system** for real-time supply chain risk detection and autonomous decision-making.  
+- Integrated **live data ingestion, global news streams, and predictive graph simulations** for proactive risk analysis.  
+- Built a scalable SaaS dashboard using **Streamlit, PostgreSQL, LangChain, Docker, and Hugging Face NLP**.  
+- Designed for **continuous monitoring, explainability, and real-world deployment**.
 
-**Computer Vision Applications**  
-- Built object detection and image classification pipelines using OpenCV and PyTorch.  
-- Optimized models for inference speed and accuracy on large datasets.  
+### NEUROSCAN AI – Early ASD Detection  
+- Built an **end-to-end ML pipeline** (preprocessing → Random Forest → evaluation with F1, precision, recall).  
+- Deployed models via **FastAPI**, serialized with **Joblib**, containerized, and shipped on **AWS ECS Fargate**.  
+- **Impact:** Improved early ASD detection while demonstrating production-grade MLOps.
 
-**Data Analytics Dashboards**  
-- Created dashboards in Power BI and Python for actionable insights.  
-- Automated data collection, cleaning, and visualization for business use cases.  
+### HARMGUARD AI – Online Child Safety  
+- Fine-tuned **BERT (bert-base-uncased)** for multi-label toxicity classification.  
+- Solved class imbalance; achieved **macro ROC-AUC > 0.95**.  
+- Built Dockerized **FastAPI inference service**, deployed on **GCP Vertex AI**.  
+- Prioritized **high recall and ethical AI** for real-world child protection.
 
+### Real-Time Object Detection Dashboard  
+- Built a SaaS-style web app using **YOLOv8 + OpenCV** for live video processing.  
+- Streamlit dashboard with **FPS metrics, object counts, and cloud-ready optimization**.  
+- Designed for **security and automation** use cases.
+
+### Credit Card Fraud Detection  
+- Designed an **ensemble-based system** for imbalanced data.  
+- Integrated **LIME** for interpretability and fairness.  
+- Built for real-world financial risk workflows.
+
+### IoT Network Intrusion Detection (Federated Learning)  
+- Hybrid **CNN–LSTM** on CICIoT2023 dataset.  
+- Used **Flower** for federated learning + **Dask** for scale.  
+- Focused on **privacy-preserving edge AI**.
+
+**Other Work:**  
+- Handwritten Digit Recognizer (TensorFlow CNN + Streamlit)  
+- AI Email Assistant (Gemini API)  
+- Full-Stack Hotel Reservation System (OOP, DSA, RBAC, Analytics)
 
 ---
 
-## GitHub Stats
+## Certifications  
+
+- **AI/ML Engineer - Stage 1** (SLIIT)  
+  Skills: Machine Learning, AI, Python, Pandas, NumPy, Data Modeling, Kaggle  
+
+- **Postman API Fundamentals Student Expert**  
+  Skills: Postman, REST APIs, API Testing  
+
+- **Intro to SQL** (Kaggle)  
+  Skills: SQL  
+
+- **Intro to Programming - Python** (Kaggle)  
+  Skills: Python  
+
+---
+
+## Additional Skills  
+
+- Strong problem-solving and analytical thinking  
+- Leadership potential through independent project management  
+- Excellent communication and teamwork in collaborative environments  
+- Commitment to **clean, maintainable code** and **scalable system design**  
+
+---
+
+## GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstharusha&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itstharusha&layout=compact&theme=dark&hide_border=false)
 
