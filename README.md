@@ -21,7 +21,7 @@ I am actively seeking **AI engineering or machine learning internships/full-time
 
 ---
 
-## Selected Projects  
+## Projects  
 
 ### CONTINUUM – Agentic AI for Supply Chain Risk  
 - Architected a **multi-agent AI system** for real-time supply chain risk detection and autonomous decision-making.  
